@@ -2,3 +2,9 @@ h1 {
   color: pink;
   text-align: center;
 }
+img {
+  width: 70%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
